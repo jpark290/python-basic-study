@@ -1,7 +1,7 @@
 # Python Study 📘
 
 This repository documents my self-paced learning of Python  
-through online free courses such as 김플의 파이썬 기초 강의.
+through online free courses.
 
 ---
 
@@ -9,18 +9,19 @@ through online free courses such as 김플의 파이썬 기초 강의.
 
 | Week | Topics Covered                     | Status  |
 |------|------------------------------------|---------|
-| 1    | Variables, Data Types, Input/Output| 🟢 In Progress |
-| 2    | Conditions, Loops, Functions       | 🔜 Next |
-| 3    | Mini Projects                      | 🔜 Planned |
+| 1    | Install                            | ✅ Completed |
+| 2    | Variables, Data Types, Input/Output| 🟢 In Progress |
+| 3    | Conditions, Loops, Functions       | 🔜 Next |
+| 4    | Mini Projects                      | 🔜 Planned |
 
 ---
 
 ## 📂 Folder Structure
 
-- `week1_basics/`: Python syntax, data types, print/input
-- `week2_control_flow/`: if/else, for/while, functions
+- `week1_basics/`: Python installation, print, input, basic syntax
+- `week2_variables_and_strings/`: Numeric types, variables, strings, formatting
 - `mini_projects/`: Practice projects like calculator, converter, etc.
-
+- 
 ---
 
 ## 📌 Course Reference
