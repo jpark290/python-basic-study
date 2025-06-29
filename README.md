@@ -20,11 +20,9 @@ through online free courses.
 
 ## 📂 Folder Overview
 
-- `week1_basics/`: Python 설치, print, input, 기본 문법
-- `week2_variables_and_strings/`: 변수, 문자열, 포맷팅
-- `week3_control_flow_and_data_structures/`: if/else, 리스트, 튜플, 딕셔너리
-
----
+- `week1_basics/`: Python installation, print(), input(), basic syntax
+- `week2_variables_and_strings/`: variables, strings, string formatting
+- `week3_control_flow_and_data_structures/`: if/else, lists, tuples, dictionaries, loops
 
 ## 📚 Course Reference
 
