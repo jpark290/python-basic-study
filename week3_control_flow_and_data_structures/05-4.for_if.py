@@ -21,7 +21,7 @@ for i in range(1, 31):
     elif i % 5 == 0:
         print(f"{i} is a multiple of 5.")
 
-# 🔍 Note:
+# Note:
 # - Order matters in if-elif chains.
 # - If we start with `if i % 3 == 0` first,
 #   numbers like 15 or 30 will be printed as "multiple of 3" only,
