@@ -1,40 +1,39 @@
+# 01_Built-in functions
 name = input("Enter your name: ")
 
 print(name)
 
-print(len(name))  # Length of the string
+print(len(name))  # Get the length of the input string
 
-
-print(type(int("1234"))) # class int
-print(type(str(1234))) # class str
+print(type(int("1234")))  # Check the type after converting string to integer
+print(type(str(1234)))    # Check the type after converting integer to string
 
 num = [1, 100, -9, 54, -4]
 
-print(max(num))  # Maximum value in the list
-print(min(num))  # Minimum value in the list
-#숫자 뿐만아니라 `문자열도 가능
+print(max(num))  # Find the maximum value in the list
+print(min(num))  # Find the minimum value in the list
 
+# max() and min() also work with strings, not just numbers
 num = ["A", "z", "t", "u", "Y"]
-       
-print(max(num))  # Maximum value in the list
-print(min(num))  # Minimum value in the list
+
+print(max(num))  # Find the maximum value based on ASCII
+print(min(num))  # Find the minimum value based on ASCII
 
 num = "asdaTAXH"
 
-print(max(num))  # Maximum value in the string
-print(min(num))  # Minimum value in the string
+print(max(num))  # Find the maximum character in the string (by ASCII)
+print(min(num))  # Find the minimum character in the string (by ASCII)
 
-#list를 정렬할 수 있는 함수도 있음
+# There are also functions to sort lists
 num = [1, 100, -9, 54, -4]
-print(sorted(num))  # Sorted list of characters in the string
+print(sorted(num))  # Return a new sorted list (ascending order)
 
 num = ["A", "z", "t", "u", "Y"]
-print(sorted(num))  # Sorted list of characters in the list
+print(sorted(num))  # Sort the list of characters alphabetically
+print(sorted(num, reverse=True))  # Sort the list in reverse order
 
-print(sorted(num, reverse=True))  # Sorted list of characters in the list in reverse order
-
-range(1, 11) # Range object from 1 to 10
-temp = list(range(1, 11))  # Convert range object to a list
+range(1, 11)  # Create a range object from 1 to 10
+temp = list(range(1, 11))  # Convert the range object to a list
 
 print(temp)
-# 일일히 리스트로 만들기 어려운 것을, range를 활용해서 만들수 있음
+# When manually creating a list is tedious, you can use range()

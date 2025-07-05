@@ -13,7 +13,7 @@ class User:
 # The __init__ method runs automatically when an object is created from the class.
 # What is a method? It's something you use with a dot after an object, like temp.append(1).
 # For example, list is a class, and append is a method belonging to that class.
-# Methods can only be used on instances created from a class.
+# Methods can only be used on ~instances created from a class.
 
 user_1 = User("Haley", 20)  # Create an instance of the User class
 # An object named user_1 is created.
