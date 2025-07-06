@@ -17,10 +17,14 @@ through online courses.
 | Step 6 | OOP Basics, Inheritance, Override, Project                      | `week7_class_and_exceptions/`    | ✅ Completed |
 | Step 7 | Exception Handling, Custom Errors, Review Quiz                  | `week7_class_and_exceptions/`    | ✅ Completed |
 | Step 8 | Modules, Packages, External Libraries, Review                   | `week8_modules_and_summary/`     | ✅ Completed |
+| Step 9 | NumPy Basics: Array, Slicing, Statistics, Correlation           | `week9_numpy/`                   | ✅ Completed |
+
 
 📝 Note:
 - Steps 1–4: from **Python Basics Course - Introduction to Programming**
 - Steps 5–8: from **Python Tutorial (Basic) - Become a Developer in 6 Hours**
+- Step 9: from **DataCamp – Introduction to Python, focused on NumPy fundamentals**
+
 
 ---
 
@@ -34,6 +38,8 @@ through online courses.
 - `week6_functions_and_io/`: function basics, arguments, scope, file I/O
 - `week7_class_and_exceptions/`: OOP, inheritance, override, exceptions, custom errors
 - `week8_modules_and_summary/`: modules, packages, external libraries, final review
+- `week9_numpy/`: NumPy basics — array operations, slicing, mean/median, std dev, correlation
+
 
 ---
 
@@ -41,3 +47,4 @@ through online courses.
 
 - [김플의 파이썬 기초 강의 (Inflearn)](https://www.inflearn.com/en/course/%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC/dashboard)
 - [나도코딩의 파이썬 기본 강의 (Inflearn)](https://www.inflearn.com/course/%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EB%B3%B8)
+- [DataCamp: Introduction to Python + NumPy Section](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)
